@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.arrow {
+  width: 50px;
+  cursor: pointer;
+  z-index: 10;
+}
